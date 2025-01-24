@@ -1,9 +1,7 @@
 # Simple Bash Menu
 
 A reusable and portable Bash menu system that uses arrays to dynamically generate menus with descriptions. This script supports positioning menus in nine different terminal locations: top-left, top-center, top-right, center-left, center-center, center-right, bottom-left, bottom-center, and bottom-right.
-<p align="center">
-  <img src="https://github.com/bjensen91/simple-bash-menu/blob/main/demo.gif" alt="Simple Bash Menu Demo" width="600">
-</p>## Features
+![Simple Bash Menu Demo](demo.gif)
 
 - Dynamic menus using arrays for options and descriptions.
 - Nine customizable menu positions.
